@@ -7,7 +7,6 @@ In it, I have collected data on factors affecting the National House Price Index
 It is both a Data Science as well an EDA exercise, where I have collected the data, cleaned it, analyzed the trends and insights, run a supervised learning algorithm, selected a candidate model, hyperparameter tuned it, predicted results, and presented my findings in a consolidated ppt.
 I have also run a simple MLR OLS regression to explain the impact of individual factors/features on the dependent variable.
 
-Dataset - [Home.LLC Exercise - Data.xlsx](https://github.com/BalaniJ/Housing-Price-Index-Exercise/files/12732616/Home.LLC.Exercise.-.Data.xlsx)
 
 ![Slide1](https://github.com/BalaniJ/Housing-Price-Index-Exercise/assets/97068370/048aa723-7b12-4913-88a7-6432574246e8)
 ![Slide2](https://github.com/BalaniJ/Housing-Price-Index-Exercise/assets/97068370/565c01c9-6382-478d-a71b-7f10f9a5fb89)
